@@ -3,4 +3,6 @@
 
 💬 **加入我们一起互动！**  
 - **Telegram**:[RealReverseEng](https://t.me/RealReverseEng)
-- **D.iscord**:[Hac Re Asm Malware Lab](https://discord.gg/nGXPH95aNU)
+- **Discord**:[Hac Re Asm Malware Lab](https://discord.gg/nGXPH95aNU)
+
+#该组织库用于特定用户组进行开放！！
