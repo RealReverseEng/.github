@@ -2,5 +2,5 @@
 
 
 💬 **加入我们一起互动！**  
-- **Telegram Channel**:[RealReverseEng](https://t.me/RealReverseEng)
-- **Discord**: [RealReverseEng](https://discord.gg/nGXPH95aNU)
+- **Telegram**:[RealReverseEng](https://t.me/RealReverseEng)
+- **D.iscord**:[Hac Re Asm Malware Lab](https://discord.gg/nGXPH95aNU)
